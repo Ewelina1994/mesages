@@ -1,0 +1,14 @@
+INSERT INTO MESSAGE(id,content) values(1, "Hey this is Varun");
+INSERT INTO MESSAGE(id,content) values(2, "Hey this is Joe");
+INSERT INTO MESSAGE(id,content) values(3, "Hi i am Luisa");
+INSERT INTO MESSAGE(id,content) values(4, "I loking friend");
+INSERT INTO MESSAGE(id,content) values(5, "Oh yea");
+INSERT INTO MESSAGE(id,content) values(6, "Some message");
+INSERT INTO MESSAGE(id,content) values(7, "Good news");
+INSERT INTO MESSAGE(id,content) values(8, "Bad news");
+INSERT INTO MESSAGE(id,content) values(9, "I am happy");
+INSERT INTO MESSAGE(id,content) values(10, "I like you");
+INSERT INTO MESSAGE(id,content) values(11, "I am sliping");
+INSERT INTO MESSAGE(id,content) values(12, "I am hungry");
+INSERT INTO MESSAGE(id,content) values(13, "Please weekend");
+INSERT INTO MESSAGE(id,content) values(14, "By");
